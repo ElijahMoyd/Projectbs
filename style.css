@@ -1,0 +1,28 @@
+.navbar {
+	background-color: darkred;
+}
+
+body {
+	background-image: url('img/doc%203.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	
+	
+
+}
+.boy {
+	display: inline-block;
+	width: 600px;
+	height: 600px;
+}
+.boy img {
+	width: 1050px;
+	
+}
+.logo{
+    width:160px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
